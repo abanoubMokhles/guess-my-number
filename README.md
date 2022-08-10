@@ -1,2 +1,2 @@
 # guess-my-number
-a simple game to practice DOM manipulation
+A simple Guess game to practice DOM manipulation (selecting elements, manipulating text, manipulating CSS styles)
